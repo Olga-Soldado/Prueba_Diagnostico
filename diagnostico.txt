@@ -1,0 +1,32 @@
+Desarrollo .
+
+1)Al leer el enunciado del ejercicio "Solo pares" tome en cuenta que se necesita un ciclo que permita recorrer una cierta cantidad de numeros
+para poder cumplir con la condicion dada.Como primer paso cree una funcion en donde el parametro seria N, lo siguiente fue crear una variable 
+que inicia en 0(par), luego añadi un ciclo for que inicia en 0 ,termina en 30 con un incremento de 1,posterior a esto realice una condicional IF que comparaba 
+el valor de par con N (valor del parametro) en caso de cumplir con la condicion seguia a una segunda condicional en donde se realizaba el modulo de 2  en caso 
+de cumplir con la condicion dada se imprime por consola el valor de i en caso contrario se vuelve a realizar el mismo procediemiento hasta que 
+se cumplan con todas las condiciones planteadas.
+En el caso que se cumpla la condicion par <=N este programa dejaria de ejecutarse.
+
+
+2)En el segundo ejercicio de "Solo pares" la metodologia de trabajo fue similar al caso anterior a exepcion de los valores que se le otorgaron al
+bucle for en donde este inicia en 1 en vez de 0 ,cumpliendo con la condicion planteada en el ejercicio en donde se pedia excluir el valor 0 del resultado final.
+
+
+3) En el ejercicio "Suma Impares" segun el enunciado se pide crear una variable que guarde la sumatoria de todos los impares existentes hasta N,por lo que al igual 
+que los casos anteriores cree una funcion que recibia un parametro(n) ,ademas de crear la variable(impar) iniciada en 0,un ciclo for que iniciaba en 0 con termino 
+en N(valor asignado por parametro),y al igual que las anteriores funciones se implemento una condional que comparaba el resultado del modulo,en caso que se generara 
+resto es decir si sobrara 1 era por que era impar ,por lo que se agregaba el valor de i a la variable impar ,una vez finalizado el ciclo se imprime por pantalla el 
+valor final de la variable impar.
+
+
+4)Al igual que los anteriores programas ejecutados cree una funcion que recibia 2 valores (min,max),como ambos ejercicios de "Suma impares" eran practicamente lo 
+mismo solo modique los valores del ciclo for por los nombre de las variables de la funcion, en el caso del valor a iniciar coloque min ,y el valor de termino
+inserte el parametro max,para corroborar que haya sido correcta la funcion inserte input para ingresar algunos valores por consola y asi verificar que la funcion 
+sea ejecutada de forma correcta dando los resultados esperados.
+
+
+G
+
+5) Por ultimo en el ejercicio de Fibbonaci tal como se sabe esta serie es la sucecion  infinita de números naturaleun  por lo que cree 3 variables para poder dar solucion al problema
+ademas de un ciclo que me pertia ir recorriendo los numeros.
