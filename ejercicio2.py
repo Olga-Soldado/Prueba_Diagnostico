@@ -18,8 +18,6 @@ def parte2(min,max):
 
     
 parte1(6)
-numero= int(input("Ingresa un número para suma de impares: ")) 
-parte1(numero)
 
 parte2(6,30)
 minimo= int(input("Ingresa un número para variable min: ")) 
